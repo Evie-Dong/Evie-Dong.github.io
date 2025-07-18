@@ -53,7 +53,7 @@ NTU AI Lab under Dr. Teoh Teik Toe
 
 - REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding *(Under Review)*  
 - Fine-Grained Knowledge-Aware Compression for Large Language Models *(Under Review)*  
-- IMRAG-MVE: Iterative Multi-Modal RAG with Multi-Level Visual Encoding *(Under Review)*  
+- Think Twice Before Answering: Iterative Multi-hop KB-VQA with Memory Trace *(In Progress)*  
 
 ---
 
@@ -63,8 +63,6 @@ NTU AI Lab under Dr. Teoh Teik Toe
 - CN117711505A: Enzyme kinetic parameter prediction method/device  
 - CN117457110A: Protein solubility prediction method/system  
 - CN112422946B: Smart yoga motion guidance system using 3D reconstruction  
-- Software Copyright No. 5950072: Vehicle Electronic License Plate Management  
-- Software Copyright No. 7509836: Centralized Charging Management Platform
 
 ---
 
@@ -88,11 +86,8 @@ NTU AI Lab under Dr. Teoh Teik Toe
 - USYD-CSC Research Tuition Fee Scholarship, 2023  
 - Faculty of Engineering Research Scholarship, 2022  
 - China National Scholarship (Top 0.2%), 2021  
-- 1st Prize, RoboWork Competition, 2021  
-- 1st Prize Scholarship & Merit Student at CQUPT (Top 1%), 2020  
-- 3rd Prize, Huawei Cloud Software Innovation Competition, 2020  
-- 2nd Prize, Huawei IoT Innovation Competition, 2020  
-- 3rd Prize, National IoT Tech & App Contest, 2020
+- 1st Prize Scholarship & Merit Student at CQUPT (Top 1%), 2020
+- 1st Prize Scholarship & Merit Student at CQUPT (Top 1%), 2019  
 
 ---
 
