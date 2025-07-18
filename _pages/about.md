@@ -16,7 +16,7 @@ My research interest includes **Multimodal Retrieval and Reasoning, LLM and rela
 
 Education
 ======
-- Ph.D., Department of Computing, Hong Kong Polytechnic University, 2024—2028 (expected).\
+- Ph.D., Department of Computing, Hong Kong Polytechnic University, 2024—2028 (expected).
 - B.E., School of Computer Science and Technology, Chongqing University of Posts and Telecommunications, 2018—2022.
 
 Experience
