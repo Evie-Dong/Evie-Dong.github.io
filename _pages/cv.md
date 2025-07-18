@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "DONG Yiying's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,13 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Yiying Dong
 
-📞 (+86) 18803419686  
-📧 yiying.dong@connect.polyu.hk  
-🌐 [Personal Website](https://evie-dong.github.io)  
+📧 yiying.dong[at]connect.polyu.hk  
+🌐 [Personal Website](https://github.com/Evie-Dong)  
 👩 Gender: Female | 🎂 Age: 24 | 🌏 Nationality: Chinese  
-🔬 **Research Interests**: Multimodal Retrieval and Reasoning, LLM and Retrieval-Augmented Generation
+🔬 **Research Interests**: Multimodal Retrieval and Reasoning, LLM and Related area.
 
 ---
 
