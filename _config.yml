@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "DONG Yiying"
-  pronouns         : example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Ph.D. Student of Computing at PolyU, Research in Multimodal Reasoning, LLM."
   location         : "🌏"
   employer         : "Hong Kong Polytechnic University"
