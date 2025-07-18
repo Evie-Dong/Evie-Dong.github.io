@@ -8,57 +8,97 @@ redirect_from:
 ---
 
 {% include base_path %}
+# Yiying Dong
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📞 (+86) 18803419686  
+📧 yiying.dong@connect.polyu.hk  
+🌐 [Personal Website](https://evie-dong.github.io)  
+👩 Gender: Female | 🎂 Age: 24 | 🌏 Nationality: Chinese  
+🔬 **Research Interests**: Multimodal Retrieval and Reasoning, LLM and Retrieval-Augmented Generation
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## 🎓 Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**The Hong Kong Polytechnic University** — *PhD Student*  
+*Sep. 2024 – Present*  
+Advisor: Prof. Jiannong Cao  
+GPA: 3.65/4.0  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Chongqing University of Posts and Telecommunications (CQUPT)** — *B.S (Hons) in Computer Science and Technology*  
+*Sep. 2018 – Jun. 2022*  
+GPA: 3.65/4.0 | Score: 88/100 | Rank: 2/139 | IELTS: 7.0
+
+**University of California, Santa Barbara (UCSB)** — *Summer School*  
+*Jul. 2021 – Aug. 2021*  
+Topic: Building the Blockchain World: Technology, Society and Innovation
+
+**Nanyang Technological University (NTU), Singapore** — *AI Internship Programme*  
+*Jan. 2021 – Mar. 2021*  
+NTU AI Lab under Dr. Teoh Teik Toe
+
+---
+
+## 🧑‍🔬 Work Experience
+
+**Eastern Institute of Technology, Ningbo** — *Research Assistant, Multimodal AI Lab*  
+*Mar. 2024 – Aug. 2024*  
+- Researched multimodal models for vertical domain applications.  
+- Worked on information extraction and video generation.  
+- Filed a patent based on research outcomes.  
+
+---
+
+## 📚 Publications
+
+- REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding *(Under Review)*  
+- Fine-Grained Knowledge-Aware Compression for Large Language Models *(Under Review)*  
+- IMRAG-MVE: Iterative Multi-Modal RAG with Multi-Level Visual Encoding *(Under Review)*  
+
+---
+
+## 🧾 Patents & Copyrights
+
+- CN119091002A: Video & slideshow generation method/device/system  
+- CN117711505A: Enzyme kinetic parameter prediction method/device  
+- CN117457110A: Protein solubility prediction method/system  
+- CN112422946B: Smart yoga motion guidance system using 3D reconstruction  
+- Software Copyright No. 5950072: Vehicle Electronic License Plate Management  
+- Software Copyright No. 7509836: Centralized Charging Management Platform
+
+---
+
+## 🔬 Research & Project Experience
+
+**Multimodal Retrieval Augmentation** — *Feb. 2025 – May. 2025*  
+- Built a multimodal KB with 2M Wikipedia articles.  
+- Integrated multi-level visual encoders for complex VQA.  
+- Hierarchical retrieval + reranking improved Recall@K and answer's quality of LLM.
+
+**Large Vision Language Model (EIT)** — *May. 2024 – Dec. 2024*  
+- Developed **REF-VLM** visual decoding using Triplet Reference Paradigm.  
+- Curated 100M+ multimodal dialogues across 25 tasks.  
+- Proposed **VD-CoT** and parameter-free mask-guided aggregation.
+
+---
+
+## 🏆 Honors & Awards
+
+- PolyU Research Postgraduate Scholarship, 2024  
+- USYD-CSC Research Tuition Fee Scholarship, 2023  
+- Faculty of Engineering Research Scholarship, 2022  
+- China National Scholarship (Top 0.2%), 2021  
+- 1st Prize, RoboWork Competition, 2021  
+- 1st Prize Scholarship & Merit Student at CQUPT (Top 1%), 2020  
+- 3rd Prize, Huawei Cloud Software Innovation Competition, 2020  
+- 2nd Prize, Huawei IoT Innovation Competition, 2020  
+- 3rd Prize, National IoT Tech & App Contest, 2020
+
+---
+
+## 🛠 Skills
+
+- **Programming**: Python, C, C++, Java, R, LaTeX  
+- **ML Libraries**: PyTorch, TensorFlow, Keras, Caffe, OpenCV  
+
+---

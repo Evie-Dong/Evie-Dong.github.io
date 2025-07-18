@@ -8,15 +8,15 @@ redirect_from:
 ---
 I'm a first year Collaborative Ph.D. student from [Department of Computing, The Hong Kong Polytechnic University](https://www.polyu.edu.hk/comp/).
 I am very fortunate to be advised by [Prof. Jiannong Cao](https://www.polyu.edu.hk/comp/people/academic-staff/prof-cao-jiannong/) of Internet and Mobile Computing Laboratory (IMCL), The Hong Kong Polytechnic University.
-[![Evie-Dong](https://img.shields.io/badge/Evie-Dong-github?logo=github)](https://github.com/Evie-Dong)
 
 Research Interests
 ======
-My research interest includes Multimodal Retrieval and Reasoning, LLM and related areas.
+My research interest includes **Multimodal Retrieval and Reasoning, LLM and related areas**.
+<!-- [![Evie-Dong](https://img.shields.io/badge/Evie-Dong-github?logo=github)](https://github.com/Evie-Dong) -->
 
 Education
 ======
-- Ph.D., Department of Computing, Hong Kong Polytechnic University, 2024—2028.\
+- Ph.D., Department of Computing, Hong Kong Polytechnic University, 2024—2028 (expected).\
 - B.E., School of Computer Science and Technology, Chongqing University of Posts and Telecommunications, 2018—2022.
 
 Experience
